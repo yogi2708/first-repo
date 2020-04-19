@@ -1,0 +1,10 @@
+@media (max-width: 649px) {
+    #board {
+        width: calc(26 * 3.5rem);
+    }
+
+    #board div {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+}
